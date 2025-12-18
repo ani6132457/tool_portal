@@ -1,6 +1,4 @@
 category,name,url,desc,tags,
 在庫,在庫ビューア,https://zaiko-viewer-8qsnhmmd9xmdl4ps2k2d87.streamlit.app/,Tempostar在庫ログの確認,zaiko,tempostar
-受注,ECS受注,,ECS受注データ取得,ecs,order
-業務,マクロ置き場,,Excelマクロ共有,excel,vba
-外部,楽天RMS,,楽天の管理画面,rakuten,rms
-ツール,コピー商品生成,https://cpcsvtool-do2w5tptbeengnerjje6uw.streamlit.app/,コピー商品csvを作成,rakuten,
+ツール,コピー商品生成,https://cpcsvtool-do2w5tptbeengnerjje6uw.streamlit.app/,コピー商品作成,rakuten,tempostar
+ツール,セット商品CSV作成,https://mwyqgas5h5kgn4pqwnxbck.streamlit.app/,セット商品CSV作成,,tempostar
